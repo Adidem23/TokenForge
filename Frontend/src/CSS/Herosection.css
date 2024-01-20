@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 2600px;
+    background-image: url('../Images/bgc.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lalezar', system-ui;
+    color: #fff;
+}
+
+.MainRender {
+    height: fit-content;
+    margin: 0px;
+    padding: 0px;
+    background-image: url('../Images/green.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.TokenForge {
+    width: fit-content;
+    height: fit-content;
+    color: #fff;
+    text-shadow: 5px 5px black;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.LogoDiv {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 23%;
+    color: #fff;
+    text-shadow: 10px 10px black;
+    font-size: 100px;
+}
+
+.LogoDivimg{
+    margin-top: 40px;
+}

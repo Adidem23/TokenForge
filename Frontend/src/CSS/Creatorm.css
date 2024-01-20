@@ -1,0 +1,93 @@
+.CenterDivision {
+    display: block;
+    margin: auto;
+    width: fit-content;
+    margin-top: 50px;
+}
+
+.CenterDivision p{
+    font-size: 3.3rem;
+    font-weight: 200;
+    line-height: normal;
+    text-shadow: 4px 4px black;
+}
+
+.CreatorDiv{
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    width: fit-content;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+
+.FirstDiv{
+    display: flex;
+    flex-direction: column;
+}
+
+.FirstDiv img{
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+}
+
+.FirstDiv a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.FirstDiv a p{
+    margin-left: 10px;
+    color: white;
+    font-size: 1.5em;
+    text-shadow: 2px 2px black;
+}
+
+.SecondDiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.SecondDiv a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.SecondDiv a p{
+    margin-left: 40px;
+    font-size: 1.5em;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.SecondDiv img{
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+}
+
+.ThirdDiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.ThirdDiv a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.ThirdDiv a p{
+    margin-left: 40px;
+    font-size: 1.5em;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.ThirdDiv img{
+    height: 150px;
+    width: 150px;
+    border-radius: 30%;
+}
