@@ -42,7 +42,7 @@ This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai
 ## Key Features :
 
 ## Minting Your Own ERC20 On Polygon-Mumbai : 
-- 
+- The Main Feature of the Token is to make ERC20 token on users demand it asks for only name of token and it unit and we are good to go 
 
 # Video :
 - YT LINK : https://youtu.be/XBKHXwTq0j4?si=YyOH8JLrXnFS6AMZ
