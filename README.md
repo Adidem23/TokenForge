@@ -70,7 +70,6 @@ This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai
   npm install npm@latest -g
   ```
 * You Require Metamask Wallet and Some polygon Mumbai matic Tokens
-*  You Require Thirdweb Account , Google-Gemini API Key and LightHouse.storage(Optional)
   
 * NodeJs
   ```sh
