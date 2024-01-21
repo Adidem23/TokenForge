@@ -96,7 +96,10 @@ npm run dev
  ```
 5. Go in Scripts folder in Backend
 
-6. 
+6. Run Following Command
+ ```sh
+   node Server.js 
+ ```
 
 
 # Deployments :
