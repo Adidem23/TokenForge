@@ -32,8 +32,8 @@ This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai
 <p align="left" flex-direction="row">
  <img src="https://github.com/Adidem23/TokenForge/assets/124609794/557cd657-544a-48ee-999e-2e74b60f174e" height="200px" width="200px" />
  <div align="left">
-  <p>Name of Token : Avalon Token</p>
-  <p>Name of Token Unit : Adi</p>
+ <p>Name of Token : Avalon Token</p>
+ <p>Name of Token Unit : Adi</p>
  <a href="https://mumbai.polygonscan.com/address/0xfd69Ac19BE151600274cfA426c3a5dFBA028fC72"><p>Contract Address</p></a>
  <a href="https://mumbai.polygonscan.com/address/0x7581A37c5Fa089c369d4D89ca0c4a56e09792782"><p>Faucet Contract Address</p></a>
  </div>
