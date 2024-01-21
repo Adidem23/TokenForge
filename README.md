@@ -29,6 +29,7 @@
 This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai chain and It is also Your ERC20 Token maker Dapp fully compatible with polygon-mumbai chain now But in future it will compatible with most of chains 
 
 ## Token Introduction :
+
 <p align="left" flex-direction="row">
  <img src="https://github.com/Adidem23/TokenForge/assets/124609794/557cd657-544a-48ee-999e-2e74b60f174e" height="200px" width="200px" />
  <div align="left">
@@ -44,18 +45,24 @@ This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai
 ## Minting Your Own ERC20 On Polygon-Mumbai : 
 - The Main Feature of the Token is to make ERC20 token on users demand it asks for only name of token and it unit and we are good to go
 
+
 ## Mintng Avalon Tokens : 
 - It provides faucet for minting Avalon tokens 
+
 
 # Video :
 - YT LINK : https://youtu.be/XBKHXwTq0j4?si=YyOH8JLrXnFS6AMZ
 
+
 # Built With : 
 
- - [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev) ReactJs
+ - [![My Skills](https://skillicons.dev/icons?i=vitejs&perline=3)](https://skillicons.dev) ViteJs
  - [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev) NodeJs
  - [![My Skills](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev) ExpressJs
  - [![My Skills](https://skillicons.dev/icons?i=solidity&perline=3)](https://skillicons.dev) Solidity
+
+- Alongside thses I have used openzepplin , hardhat , uiver.io an
+
   
 # Prerequisites : 
 
