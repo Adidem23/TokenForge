@@ -81,7 +81,7 @@ Follow The Installation manual and install dependencies
 
 1. Clone Project and go inside Frontend
  ```sh
-   npm install / npm install --force(If Error Comes)
+   npm install --force
  ```
 
 2. Run Following Command in terminal
@@ -90,6 +90,8 @@ npm run dev
 ```
 
 3. App is Running on localhost:5173 😎
+
+4. Go in 
 
 
 # Deployments :
