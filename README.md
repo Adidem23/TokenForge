@@ -1,6 +1,6 @@
 <div align="center">
  <img src="https://github.com/Adidem23/TokenForge/assets/124609794/a4204fe8-7827-4881-aa43-4408dc706740" height="120px" width="120px" />
-  <h3 align="center"> TokenForge: Forge Your ERC20 on Polygon Mumbai</h3>
+  <h3 align="center">  TokenForge: Forge Your ERC20 on Polygon Mumbai </h3>
 </div>
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +24,7 @@
 
 ## About The Project : 
 
- ##  ChainSailor : Dev Tool For Blockchain Developers
+ ## TokenForge: Forge Your ERC20 on Polygon Mumbai
 
 Introducing ChainSailor, a DevTool Which is made for newbie Blockchain Developers which helps them in coding and using blockchain tools . It has some feturs like WEB3GPT , Metatool , NFTPlayground and IPFS . 
 
