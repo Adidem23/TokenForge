@@ -91,8 +91,10 @@ npm run dev
 
 3. App is Running on localhost:5173 😎
 
-4. Go in Backend Folder
-
+4. Go in Backend Folder and run following Command
+```sh
+   npm install --force
+ ```
 5. 
 
 
