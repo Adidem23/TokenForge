@@ -100,7 +100,9 @@ npm run dev
  ```sh
    node Server.js 
  ```
-7. Backend Server is started on localhost:6189 
+7. Backend Server is started on localhost:6189
+
+8. ## Note : Do not Kill Both Terminals in VSCode Both Frontend and Backend
 
 
 # Deployments :
