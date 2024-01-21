@@ -1,5 +1,7 @@
 <div align="center">
- <img src="" height="120px" width="120px" />
+ ![panda]()
+
+ <img src="https://github.com/Adidem23/TokenForge/assets/124609794/a4204fe8-7827-4881-aa43-4408dc706740" height="120px" width="120px" />
   <h3 align="center"> TokenForge: Forge Your ERC20 on Polygon Mumbai</h3>
 </div>
 <details>
