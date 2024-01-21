@@ -16,7 +16,7 @@ const App = () => {
     }, 6000);
   }, [])
 
-  
+
 
 
   return (
@@ -24,7 +24,7 @@ const App = () => {
       <Routes>
         {Loading ? <> <Route path='/' Component={Loader} /></> : <> <Route path='/' Component={ComposeAll} /></>}
 
-        <Route path='/faucet' Component={Faucet}/>
+        <Route path='/faucet' Component={Faucet} />
 
       </Routes>
     </>

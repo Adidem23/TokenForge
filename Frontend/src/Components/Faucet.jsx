@@ -8,6 +8,7 @@ import { ethers } from 'ethers';
 import FaucetAbi from '../ABI/Faucet.json';
 import { ToastContainer, toast } from 'react-toastify';
 import "react-toastify/dist/ReactToastify.css";
+import MintOwn from './MintOwn';
 
 const Faucet = () => {
 
@@ -16,8 +17,10 @@ const Faucet = () => {
   const [RefreshedAddress, setRefreshedAddress] = useState("");
   const [RequestedAddress, setRequestedAddress] = useState("");
   const [Contractbal, setContractbal] = useState(0);
-  const Transactions = [];
   const FaucetContractAddress = "0x7581A37c5Fa089c369d4D89ca0c4a56e09792782";
+  const [TxHash, setTxHash] = useState("");
+  const [TxTime, setTxTime] = useState("");
+  const [ConvertedTxHash, setConvertedTxHash] = useState("");
 
   const ConnectMetamask = async () => {
     const Account = await connectAccount();
@@ -49,25 +52,39 @@ const Faucet = () => {
   getContractBalance();
 
   const SendUserADI = async () => {
-    const provider = new ethers.providers.Web3Provider(window.ethereum);
-    const signers = provider.getSigner();
-    const FaucetContractInstance = new ethers.Contract(FaucetContractAddress, FaucetAbi.abi, signers);
 
-    try {
-      const moneytransfer = await FaucetContractInstance.requestTokens();
-      if (moneytransfer) {
+    if (Connected) {
+      const provider = new ethers.providers.Web3Provider(window.ethereum);
+      const signers = provider.getSigner();
+      const FaucetContractInstance = new ethers.Contract(FaucetContractAddress, FaucetAbi.abi, signers);
 
-        const RecentlyMintedTx = { Hash: `${moneytransfer.hash}`, address:`${RequestedAddress}`,TimeMinted:`${new Date().getTime()}`};
+      try {
+        const moneytransfer = await FaucetContractInstance.requestTokens();
+        if (moneytransfer) {
 
-        Transactions.push(RecentlyMintedTx);
+          const RecentlyMintedTx = { Hash: `${moneytransfer.hash}`, address: `${RequestedAddress}`, TimeMinted: `${new Date()}` };
 
-        console.log("Transactions are : ");
-        for (let i = 0; i < Transactions.length; i++) {
-          console.log(Transactions[i]);
-       }
+          setTxHash(RecentlyMintedTx.Hash);
+          ConvertTxHash(RecentlyMintedTx.Hash);
+          setTxTime(RecentlyMintedTx.TimeMinted);
 
-        toast.success(' Mint Successful 🟢', {
-          position: "top-center",
+          getContractBalance();
+
+          toast.success(' Mint Successful 🟢', {
+            position: "top-center",
+            autoClose: 5000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "dark",
+          });
+        }
+
+      } catch (err) {
+        toast.error(`UnExpected Error: ${err.data.message} 🔴`, {
+          position: "bottom-right",
           autoClose: 5000,
           hideProgressBar: false,
           closeOnClick: true,
@@ -78,8 +95,8 @@ const Faucet = () => {
         });
       }
 
-    } catch (err) {
-      toast.error(`UnExpected Error: ${err.data.message}`, {
+    } else {
+      toast.error(`Error Connect Your Wallet First`, {
         position: "bottom-right",
         autoClose: 5000,
         hideProgressBar: false,
@@ -91,9 +108,15 @@ const Faucet = () => {
       });
     }
 
+
   }
 
-  
+  const ConvertTxHash = (originalHash) => {
+    const middlePart = originalHash.slice(10, 16);
+    const reducedHash = originalHash.slice(0, 6) + '.' + middlePart + originalHash.slice(-6);
+    setConvertedTxHash(reducedHash);
+  }
+
   return (
     <>
       <nav className="navbar">
@@ -141,13 +164,29 @@ const Faucet = () => {
         <div className='TransDiv'>
 
           <h4>Transactions 😵‍💫</h4>
-        
+          <div className="notification">
+            <div className="notiglow"></div>
+            <div className="notiborderglow"></div>
+            {TxHash ? <>
+              {TxHash && <div className="notibody">Transactions Hash :<a style={{ color: "white", listStyle: "none", textDecoration: "none" }} href={`https://mumbai.polygonscan.com/tx/${TxHash}`} target={"_blank"}>{ConvertedTxHash}</a></div>}
+              {TxTime && <div className="notibody" style={{ marginTop: "30px" }}>{TxTime}</div>}
+            </> : <> <div className="notibody">No Transactions Yet 😎</div></>
+            }
+          </div>
 
         </div>
 
+        <br />
+        <br />
+        <br />
+        <br />
 
+
+        <MintOwn />
 
       </div>
+
+
       <GoToTop />
 
       <ToastContainer
