@@ -123,7 +123,7 @@ npm run dev
 <br />
 <br />
 
- <img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/7645d03c-29f8-40af-8b53-8050a686f761" alt="Screenshot 2024-01-02 222928" >
+ <img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/d8ce7992-a29b-4e9b-898f-90b0700eb69a" alt="Screenshot 2024-01-02 222928" >
  
 <br />
 <br />
