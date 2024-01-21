@@ -29,7 +29,6 @@
 This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai chain and It is also Your ERC20 TOken maker Dapp fully compatible with polygon-mumbai chain now . But in future it will compatible with most of chains 
 
 ## Token Introduction : 
-                        
  <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255" height="120px" width="120px" />
 
 ## Key Features :
