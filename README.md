@@ -26,7 +26,7 @@
 
 ## TokenForge: Forge Your ERC20 on Polygon Mumbai
 
-This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai chain and It is also Your ERC20 Token maker Dapp fully compatible with polygon-mumbai chain now . But in future it will compatible with most of chains 
+This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai chain and It is also Your ERC20 Token maker Dapp fully compatible with polygon-mumbai chain now But in future it will compatible with most of chains 
 
 ## Token Introduction :
 <p align="left" flex-direction="row">
@@ -40,6 +40,9 @@ This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai
 </p>
 
 ## Key Features :
+
+## Minting Your Own ERC20 On Polygon-Mumbai : 
+- 
 
 # Video :
 - YT LINK : https://youtu.be/XBKHXwTq0j4?si=YyOH8JLrXnFS6AMZ
