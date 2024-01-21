@@ -95,7 +95,9 @@ npm run dev
 ```sh
    npm install --force
  ```
-5. 
+5. Go in Scripts folder in Backend
+
+6. 
 
 
 # Deployments :
