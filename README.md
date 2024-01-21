@@ -1,6 +1,6 @@
 <div align="center">
  <img src="https://github.com/Adidem23/ChainSailor/assets/124609794/61c644cc-bca0-4fb8-b4f6-9f1f3745e880" height="120px" width="120px" />
-  <h3 align="center"> ChainSailor: Sail Through Your Web3 Journey</h3>
+  <h3 align="center"> TokenForge: Forge Your ERC20 on Polygon Mumbai</h3>
 </div>
 <details>
   <summary>Table of Contents</summary>
