@@ -100,6 +100,7 @@ npm run dev
  ```sh
    node Server.js 
  ```
+7. Backend Server is started on localhost:6189 
 
 
 # Deployments :
