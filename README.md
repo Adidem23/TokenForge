@@ -116,81 +116,11 @@ npm run dev
 
 # Frontend : 
 <br />
-  <img width="960" alt="Screenshot 2024-01-02 222928" src="https://github.com/Adidem23/ChainSailor/assets/124609794/7feb29bf-4319-444f-a7e7-ca9b9e35b626">
+  <img width="960"  src="" alt="Screenshot 2024-01-02 222928" >
 <br />
 <br />
 <br />
 
-# WEB3-GPT :
-<br />
-<img width="960" alt="Screenshot 2024-01-02 222959" src="https://github.com/Adidem23/ChainSailor/assets/124609794/57881f38-996e-4f37-a6b3-f60bf8fe2e3a">
-<br />
-<br />
-<br />
-<img width="958" alt="Screenshot 2024-01-02 223021" src="https://github.com/Adidem23/ChainSailor/assets/124609794/dc3fd6b8-6b19-407b-8a1f-0fff066b9030">
-
-  
-# MetaTool :
-<br />
-<img width="960" alt="Screenshot 2023-12-29 165816" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/9d471a07-34ca-4bf5-88c0-3515846ccd82">
-<br />
-<br />
-<br />
-
-# SwitchChain() :
-<br />
-<img width="958" alt="Screenshot 2023-12-29 165747" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/996a393c-8b97-4f5f-aa7c-830aab72f792">
-<br />
-<br />
-<br />
-
-# EncryptionKey():
-<br />
-<img width="960" alt="Screenshot 2023-12-29 165835" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/037eccce-ab25-48e0-b956-6ef0bd38b323">
-<br />
-<br />
-<br />
-<img width="331" alt="Screenshot 2023-12-29 165845" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/f078fe6a-052d-4427-a8cf-7f6f101d3cf9">
-<br />
-<br />
-<br />
-
-# ConnectedAccount():
-<br />
-<img width="305" alt="Screenshot 2023-12-29 165852" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/37c24bdd-79c7-4dad-a800-33fe06ab8a10">
-<br />
-<br />
-<br />
-
-# SignMessage():
-<br/>
-<img width="957" alt="Screenshot 2023-12-29 165917" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/3b9c6399-0112-49d2-9945-6e08ff931442">
-<br />
-<br />
-<br />
-<img width="956" alt="Screenshot 2023-12-29 165925" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/402c484c-b297-42d8-8f9e-c39a0fbaadd2">
-<br />
-<br />
-<br />
-
-# BlockNumber():
-<br/>
-<img width="960" alt="Screenshot 2023-12-29 165932" src="https://github.com/Adidem23/EnchantDapp/assets/124609794/75542886-cf88-41d5-bb74-ef99b4c63dea">
-<br />
-<br />
-<br />
-
-# NFT-Playground : 
-<br/>
-<img width="959" alt="Screenshot 2024-01-02 223044" src="https://github.com/Adidem23/ChainSailor/assets/124609794/c01b28b9-5cab-4521-9e69-9d1ca771ca1d">
-<br />
-<br />
-<br />
-<img width="960" alt="Screenshot 2024-01-02 223116" src="https://github.com/Adidem23/ChainSailor/assets/124609794/5900604d-fd77-4f9f-9d67-5cfdaf80259d">
-<br />
-<br />
-<br />
-<img width="959" alt="Screenshot 2024-01-02 223123" src="https://github.com/Adidem23/ChainSailor/assets/124609794/89bb24c4-9fcd-4f09-a461-ff2fde004c86">
 
 
   
