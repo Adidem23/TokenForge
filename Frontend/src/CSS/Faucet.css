@@ -1,0 +1,234 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+    color: black;
+    padding: 1.5rem 2rem;
+    box-shadow: none;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 30px;
+}
+
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 5.5rem;
+}
+
+.nav-links li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.nav-links li a:hover {
+    color: black;
+    text-shadow: 3px 3px whitesmoke;
+}
+
+@media (max-width: 768px) {
+
+    .navbar {
+        padding: 1rem 1.5rem;
+        /* Adjust padding for smaller screens */
+    }
+
+    .logo img {
+        width: 60px;
+        /* Reduce logo size */
+        height: 60px;
+    }
+
+    .nav-links {
+        gap: 1.3rem;
+        /* Reduce gap between nav links */
+    }
+
+    .nav-links li a {
+        padding: 0.3rem 0.5rem;
+        font-size: 10px;
+
+    }
+
+    .pushable .front {
+        padding: 12px 24px;
+        /* Adjust button padding */
+        font-size: 0.5rem;
+        width: fit-content;
+        height: fit-content;
+        /* Slightly smaller button text */
+    }
+}
+
+.AvalonDiv {
+    width: fit-content;
+    text-shadow: 3px 3px black;
+    margin: auto;
+    justify-items: center;
+}
+
+.AvalonDiv h2 {
+    font-size: 5.4rem;
+    width: fit-content;
+    margin: auto;
+}
+
+.AvalonDiv p {
+    margin-top: -25px;
+    font-size: 3.2rem;
+}
+
+.MinterDiv {
+    margin: auto;
+    width: fit-content;
+    background-image:url('../Images/polygon.svg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+    padding: 30px 40px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* This is Css of input  */
+.input-container {
+    position: relative;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.input {
+    font-size: 1em;
+    padding: 0.6em 1em;
+    border: none;
+    border-radius: 6px;
+    background-color: #f8f8f8;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    width: 400px;
+    color: #333;
+}
+
+.input:hover {
+    background-color: #f2f2f2;
+}
+
+.input:focus {
+    outline: none;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.input::placeholder {
+    color: #999;
+}
+
+.highlight {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    transition: width 0.3s ease;
+}
+
+.input:focus+.highlight {
+    width: 100%;
+}
+
+/* Optional: Animation on focus */
+@keyframes input-focus {
+    from {
+        transform: scale(1);
+        box-shadow: 0 0 0 rgba(0, 0, 0, 0.1);
+    }
+
+    to {
+        transform: scale(1.02);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+}
+
+.input:focus {
+    animation: input-focus 0.3s ease;
+}
+
+/* This is end for input  */
+
+/* This is CSS For the Button */
+.btn {
+    border: none;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    background: #1C1A1C;
+    cursor: pointer;
+    transition: all 450ms ease-in-out;
+    margin-left: 30px;
+  }
+  
+  .sparkle {
+    fill: #AAAAAA;
+    transition: all 800ms ease;
+  }
+  
+  .text {
+    font-size: 1.2rem;
+    color: #AAAAAA;
+  }
+  
+  .btn:hover {
+    background: linear-gradient(0deg,#A47CF3,#683FEA);
+    box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.4),
+    inset 0px -4px 0px 0px rgba(0, 0, 0, 0.2),
+    0px 0px 0px 4px rgba(255, 255, 255, 0.2),
+    0px 0px 180px 0px #9917FF;
+    transform: translateY(-2px);
+  }
+  
+  .btn:hover .text {
+    color: white;
+  }
+  
+  .btn:hover .sparkle {
+    fill: white;
+    transform: scale(1.2);
+  } 
+/* This is End for the button */
+
+.TransDiv{
+    margin-top: 20px;
+}
+
+.TransDiv h4{
+    font-size: 2.0rem;
+    color: black;
+    text-shadow: 2px 2px slateblue;
+}
+
+.MinterDiv h3{
+    width: fit-content;
+    margin: auto;
+    font-size: 2.2rem;
+    margin-top: -30px;
+    text-shadow: 3px 3px black;
+}

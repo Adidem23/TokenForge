@@ -1,5 +1,6 @@
 import '../CSS/Token.css';
 import Spline from '@splinetool/react-spline';
+import { Link } from 'react-router-dom';
 
 const Token = () => {
 
@@ -12,9 +13,11 @@ const Token = () => {
                 <div className='TokenSubDiv'>
                     <p>Avalon is ERC20 Token which is Created on Polygon-Mumbai Testnet.Check out Contract of Avalon here . Check Faucet Contract here . Lets have Some Avalon in your Wallet
                     </p>
-                    <button>
-                        Mint 😍
-                    </button>
+                    <Link style={{listStyle:'none',textDecoration:'none'}} to={"/faucet"}>
+                        <button>
+                            Mint 😍
+                        </button></Link>
+
                 </div>
             </div>
         </>
