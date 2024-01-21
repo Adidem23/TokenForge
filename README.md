@@ -33,25 +33,13 @@ This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai
  <img src="https://github.com/Adidem23/TokenForge/assets/124609794/557cd657-544a-48ee-999e-2e74b60f174e" height="200px" width="200px" />
  <div align="left">
   <p>Name of Token : Avalon Token</p>
-  <p>Name of Token Unit: Adi</p>
+  <p>Name of Token Unit : Adi</p>
  <a href="https://mumbai.polygonscan.com/address/0xfd69Ac19BE151600274cfA426c3a5dFBA028fC72"><p>Contract Address</p></a>
  <a href="https://mumbai.polygonscan.com/address/0x7581A37c5Fa089c369d4D89ca0c4a56e09792782"><p>Faucet Contract Address</p></a>
  </div>
 </p>
 
 ## Key Features :
-
-# WEB3GPT : 
-- WEB3GPT is Key Feature of ChainSailor where we have to enter prompt related to web3 it will fetch data for you . You can say it as ChatGPT for web3 .
-
-# MetaTool : 
-- It is Metamask Interaction tool which interacts with metamask and simplify transactions and blocknumber data . It uses <strong>Enchantmask</strong> npm package created by me for the interaction .
-
-# NFT-playground : 
-- It is AI NFT minter which takes your Prompt and creates its image with stable Diffusion and we can mint that given Image and import it as token in metamask .
-
-# IPFS : 
-- This provides one click IPFS deployment . For now It only porvides deployment for text but in next days it will of file and text
 
 # Video :
 - YT LINK : https://youtu.be/AZ6M-Y8ADVg
