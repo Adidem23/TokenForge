@@ -91,7 +91,9 @@ npm run dev
 
 3. App is Running on localhost:5173 😎
 
-4. Go in 
+4. Go in Backend Folder
+
+5. 
 
 
 # Deployments :
