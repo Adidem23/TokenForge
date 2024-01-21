@@ -109,6 +109,8 @@ npm run dev
 - Spline3d Avalon Token Link : https://app.spline.design/file/3faa78b9-40f3-420d-a2a6-7051243dc33f
 - Figma Frontend File : https://www.figma.com/file/ubSrlhksM84sxqmgXCS5Oo/Avalaon-Faucet?type=design&node-id=0-1&mode=design&t=nT2IHmsXkkcfq9QB-0
 - Avalon Token Contract Address : https://mumbai.polygonscan.com/address/0xfd69Ac19BE151600274cfA426c3a5dFBA028fC72
+- Avalon Faucet Smart Contract Address : https://mumbai.polygonscan.com/address/0x7581A37c5Fa089c369d4D89ca0c4a56e09792782
+- 
 
 # Screenshots : 
 
