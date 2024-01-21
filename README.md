@@ -130,6 +130,15 @@ npm run dev
 <br />
 <br />
 <br />
+
+# Mint Successful : 
+
+<br />
+<img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/2dd04ae3-3d98-4cba-a4f9-80d56140154c" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br />
+
   
 # Contributions : 
 New Contributors are welcome and I need Knowledge about Scalability of WebApps
