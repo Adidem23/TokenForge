@@ -62,7 +62,6 @@ This is Faucet platform for ERC20 Token Called Avalon which is on Polygon-mumbai
  - [![My Skills](https://skillicons.dev/icons?i=solidity&perline=3)](https://skillicons.dev) Solidity
 - Alongside thses I have used openzepplin , hardhat , uiver.io and NodeJs childprocesses and EthereJS for Implementation . 
 
-  
 # Prerequisites : 
 
 * npm
