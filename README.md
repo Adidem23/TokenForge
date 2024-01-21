@@ -25,8 +25,7 @@
 ## About The Project : 
 
  ## TokenForge: Forge Your ERC20 on Polygon Mumbai
-
-Introducing ChainSailor, a DevTool Which is made for newbie Blockchain Developers which helps them in coding and using blockchain tools . It has some feturs like WEB3GPT , Metatool , NFTPlayground and IPFS . 
+This is Faucet platform for ERC20 Token Called Avalon 
 
 ## Key Features :
 
