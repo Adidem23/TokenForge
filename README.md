@@ -137,7 +137,14 @@ npm run dev
 <img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/708793aa-334c-404e-810c-bd93e0fd0899" alt="Screenshot 2024-01-02 222928" >
 <br />
 <br />
+<br 
+
+# Metamask PopUp : 
 <br />
+<img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/eda840bd-cab2-4654-bc1e-696d6b92bd86" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br 
 
 # Mint Successful : 
 
