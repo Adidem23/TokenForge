@@ -144,7 +144,7 @@ npm run dev
 <img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/eda840bd-cab2-4654-bc1e-696d6b92bd86" alt="Screenshot 2024-01-02 222928" >
 <br />
 <br />
-<br 
+<br />
 
 # Mint Successful : 
 
