@@ -210,6 +210,3 @@ npm run dev
 <br />
 <br />
 <br />
-
-# Contributions : 
-New Contributors are welcome and I need Knowledge about Scalability of WebApps
