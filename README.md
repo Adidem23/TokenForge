@@ -197,6 +197,13 @@ npm run dev
 <br />
 <br />
 
+# Import Tokens : 
+<br />
+<img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/46734ad3-a40c-47f9-b74a-8f504ca7eae6" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br />
+
 
 # Contributions : 
 New Contributors are welcome and I need Knowledge about Scalability of WebApps
