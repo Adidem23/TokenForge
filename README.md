@@ -124,8 +124,6 @@ npm run dev
 <img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/d8ce7992-a29b-4e9b-898f-90b0700eb69a" alt="Screenshot 2024-01-02 222928" >
 
 # Error Without Connecting Account : 
-<img width="960" alt="Screenshot 2024-01-21 234136" src="">
-
 <br />
 <img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/a557a4d2-68cc-4775-8c79-3b33fecb3438" alt="Screenshot 2024-01-02 222928" >
 <br />
