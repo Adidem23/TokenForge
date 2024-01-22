@@ -121,7 +121,15 @@ npm run dev
 <br />
 <br />
 <br />
- <img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/d8ce7992-a29b-4e9b-898f-90b0700eb69a" alt="Screenshot 2024-01-02 222928" >
+<img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/d8ce7992-a29b-4e9b-898f-90b0700eb69a" alt="Screenshot 2024-01-02 222928" >
+
+# Error Without Connecting Account : 
+<br />
+<img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/708793aa-334c-404e-810c-bd93e0fd0899" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br />
+
 
 # ConnectAccount and Faucet : 
 
