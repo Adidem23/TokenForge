@@ -183,6 +183,14 @@ npm run dev
 <br />
 <br />
 
+# Metamask Popup : 
+<br />
+<img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/fb53a07c-e4ab-452e-aa30-8945589bd638" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br />
+
+
 
 # Contributions : 
 New Contributors are welcome and I need Knowledge about Scalability of WebApps
