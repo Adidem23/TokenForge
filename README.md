@@ -162,5 +162,12 @@ npm run dev
 <br />
 <br />
 
+# Balance of Contract Reduced After Transaction : 
+<br />
+<img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/200e3658-bd80-47ec-b8bb-446b5c3dc543" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br />
+
 # Contributions : 
 New Contributors are welcome and I need Knowledge about Scalability of WebApps
