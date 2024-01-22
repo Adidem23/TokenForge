@@ -190,6 +190,12 @@ npm run dev
 <br />
 <br />
 
+# Deployed Token Contract Address : 
+<br />
+<img width="960"  src="https://github.com/Adidem23/TokenForge/assets/124609794/6fbc8426-e157-467c-aaf6-8d240540153c" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br />
 
 
 # Contributions : 
