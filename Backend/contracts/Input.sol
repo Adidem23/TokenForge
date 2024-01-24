@@ -8,7 +8,7 @@
 contract Input is ERC20 {
     address payable public Owner;
 
-    constructor() ERC20("Aai", "A") {
+    constructor() ERC20("Modi ", "Modz") {
         Owner = payable(msg.sender);
         _mint(Owner, 1000 * (10 ** decimals()));
     }
